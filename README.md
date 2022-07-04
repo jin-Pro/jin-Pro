@@ -42,7 +42,7 @@
 ![React] ![Styled Component] ![Recoil] ![Redux]
 
 ### Collaboration
-![Git][Git] ![GitHub][GitHub] ![Visual Studio Code][Visual Studio Code] ![Notion][Notion] ![Slack][Slack] ![Trello][Trello]
+![Git] ![GitHub] ![Visual Studio Code] ![Notion] ![Slack] ![Trello]
 
 ## 📚 Stats
 
@@ -53,10 +53,7 @@
 
 ## 📞 Contact
 
-[![이력서][이력서]](https://luxuriant-oboe-e56.notion.site/4c3b1480d2ef47159578cafd13f0eadd) [![Velog][Velog]](https://velog.io/@0_jin) [![Gmail Badge][Gmail Badge]](mailto:dnjun2@ajou.ac.kr)
-
----
-
+[![이력서]](https://luxuriant-oboe-e56.notion.site/4c3b1480d2ef47159578cafd13f0eadd) [![Velog]](https://velog.io/@0_jin) [![Gmail Badge]](mailto:dnjun2@ajou.ac.kr)
 
 [HTML5]: https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white
 [css]: https://img.shields.io/badge/css-686de0?style=for-the-badge&logo=css3&logoColor=white
