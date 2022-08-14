@@ -1,5 +1,5 @@
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=I am    jin-Pro&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&color=0:fe7ca9,100:64b3f4" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=I%20am%20%20%20%20jin-Pro&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&color=0:fe7ca9,100:64b3f4" />
 
 # [:house: 내 방 구경하기](https://jinpro.vercel.app/) 
 
@@ -21,7 +21,7 @@
 ### :couple_with_heart: CowDogTing  [![link](https://user-images.githubusercontent.com/48382813/143898340-b7ca0e57-2c5c-4978-8987-01a0c605d0ae.png)](https://github.com/jin-Pro/web10-CowDogTing)
 
   > 화상채팅을 통한 웹 소개팅 서비스
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jin-Pro&repo=web10-CowDogTing&cache_seconds=86400&theme=gruvbox">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=boostcampwm-2021&repo=web10-CowDogTing&cache_seconds=86400&theme=gruvbox">
   
   - 개발 기간 : 2021.10.25 ~ 2020.12.03
   - 사용 언어 및 기술 : React, Typescript, Socket.io, webRTC, Recoil, Emotion
