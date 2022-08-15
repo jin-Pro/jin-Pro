@@ -18,7 +18,7 @@
 
 
 
-### :couple_with_heart: CowDogTing  [![link](https://user-images.githubusercontent.com/48382813/143898340-b7ca0e57-2c5c-4978-8987-01a0c605d0ae.png)](https://github.com/jin-Pro/web10-CowDogTing)
+### :couple_with_heart: CowDogTing  [![link](https://user-images.githubusercontent.com/48382813/143898340-b7ca0e57-2c5c-4978-8987-01a0c605d0ae.png)](https://github.com/boostcampwm-2021/web10-CowDogTing)
 
   > 화상채팅을 통한 웹 소개팅 서비스
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=boostcampwm-2021&repo=web10-CowDogTing&cache_seconds=86400&theme=gruvbox">
@@ -27,7 +27,7 @@
   - 사용 언어 및 기술 : React, Typescript, Socket.io, webRTC, Recoil, Emotion
  
 
-### :child:  MET:AJOU  [![link](https://user-images.githubusercontent.com/48382813/143898340-b7ca0e57-2c5c-4978-8987-01a0c605d0ae.png)](https://www.metajou.kro.kr/)
+### :child:  MET:AJOU  [![link](https://user-images.githubusercontent.com/48382813/143898340-b7ca0e57-2c5c-4978-8987-01a0c605d0ae.png)](https://github.com/MET-AJOU/MET-AJOU)
 
   > 아주대학교 웹 3D 메타버스
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jin-Pro&repo=MET-AJOU&cache_seconds=86400&theme=gruvbox">
