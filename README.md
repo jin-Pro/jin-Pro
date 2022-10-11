@@ -39,7 +39,10 @@
 
 ### Frontend
 ![HTML5] ![css] ![JavaScript] ![TypeScript] 
+<br />
 ![React] ![Styled Component] ![Recoil] ![Redux]
+<br />
+![Jest] ![Cypress] ![Storybook]
 
 ### Collaboration
 ![Git] ![GitHub] ![Visual Studio Code] ![Notion] ![Slack] ![Trello]
@@ -73,3 +76,6 @@
 [Styled Component]: https://img.shields.io/badge/StyledComponent-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=black
 [Recoil]: https://img.shields.io/badge/Recoil-764ABC.svg?&style=for-the-badge&logo=Recoil&logoColor=white
 [Redux]: https://img.shields.io/badge/Redux-6640b8.svg?&style=for-the-badge&logo=Redux&logoColor=white
+[Jest]: https://img.shields.io/badge/Jest-DB7093.svg?&style=for-the-badge&logo=Jest&logoColor=white
+[Cypress]: https://img.shields.io/badge/Cypress-0052CC.svg?&style=for-the-badge&logo=Cypress&logoColor=white
+[Storybook]: https://img.shields.io/badge/Storybook-26c394.svg?&style=for-the-badge&logo=Storybook&logoColor=white
