@@ -3,37 +3,16 @@
 
 # [:house: 내 방 구경하기](https://jinpro.vercel.app/) 
 
-## 📚  Study
+## 📚  Study History
 
-- 아주대학교 입학 (2016.03)
-- 아주대학교 소프트웨어학과 (2021.01 ~ 2023.02)
-- 부스트캠프 웹.모바일 6기 챌린지 (2021.07 ~ 2021.08)
-- 부스트캠프 웹.모바일 6기 멤버십 (2021.08 ~ 2021.12)
+- 아주대학교 입학 (2016.03 ~ 2023.08)
+- 네이버 부스트캠프 6기 (2021.07 ~ 2021.12)
 - 이지일렉트릭 인턴 (2021.12 ~ 2022.06)
-- 아주대학교 Do-IT 동아리 JavaScript 강의 (2022.03 ~ 2022.06 )
-- 아주대학교 Do-IT 동아리 React 강의 (2022.03 ~ 2022.06 )
-- 오픈소스 컨트리뷰션 아카데미 (2022.07 ~ 2022.10) *리드멘티
+- 아주대학교 Do-IT 동아리 강의 (2022.03 ~ 2022.06 )
+- 오픈소스 컨트리뷰션 (2022.07 ~ 2022.10)
+- 넥슨 코리아 (2022.12 ~ )
 
 ---
-
-
-
-### :couple_with_heart: CowDogTing  [![link](https://user-images.githubusercontent.com/48382813/143898340-b7ca0e57-2c5c-4978-8987-01a0c605d0ae.png)](https://github.com/boostcampwm-2021/web10-CowDogTing)
-
-  > 화상채팅을 통한 웹 소개팅 서비스
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=boostcampwm-2021&repo=web10-CowDogTing&cache_seconds=86400&theme=gruvbox">
-  
-  - 개발 기간 : 2021.10.25 ~ 2020.12.03
-  - 사용 언어 및 기술 : React, Typescript, Socket.io, webRTC, Recoil, Emotion
- 
-
-### :child:  MET:AJOU  [![link](https://user-images.githubusercontent.com/48382813/143898340-b7ca0e57-2c5c-4978-8987-01a0c605d0ae.png)](https://github.com/MET-AJOU/MET-AJOU)
-
-  > 아주대학교 웹 3D 메타버스
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jin-Pro&repo=MET-AJOU&cache_seconds=86400&theme=gruvbox">
-  
-  - 개발 기간 : 2022.03 ~ 2022.06
-  - 사용 언어 및 기술 : React, TypeScript, Styled-component, Recoil, Three.js
 
 ## 🛠 Skills
 
@@ -51,12 +30,10 @@
 
 [![solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dnjun2)](https://solved.ac/dnjun2) 
       
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jin-Pro&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
-
 
 ## 📞 Contact
 
-[![이력서]](https://luxuriant-oboe-e56.notion.site/4c3b1480d2ef47159578cafd13f0eadd) [![Velog]](https://velog.io/@0_jin) [![Gmail Badge]](mailto:dnjun2@ajou.ac.kr)
+[![Gmail Badge]](mailto:dnjun2@ajou.ac.kr)
 
 [HTML5]: https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white
 [css]: https://img.shields.io/badge/css-686de0?style=for-the-badge&logo=css3&logoColor=white
